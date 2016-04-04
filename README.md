@@ -1,0 +1,2 @@
+# SQLServerLibrary
+SQLServer的DotNet接入库
